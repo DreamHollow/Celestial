@@ -1,6 +1,12 @@
 # Celestial Game Engine
 An open-source and public domain game engine prototype.
 
+STATUS
+------
+
+Pre-alpha.
+Not intended for use yet.
+
 IMPORTANT NOTICE
 ----------------
 

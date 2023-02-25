@@ -1,5 +1,6 @@
 #ifndef APPLICATION_HPP
 #define APPLICATION_HPP
+#include "Globals.h"
 
 class Application
 {

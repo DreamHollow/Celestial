@@ -11,3 +11,10 @@ IMPORTANT NOTICE
 ----------------
 
 This game engine is in very early stages and will likely not be completed for some time.
+
+The first version of this project will only allow for 2D game creation, with 3D implementation down the line.
+
+DEPENDENCIES
+------------
+
+The Celestial game engine uses SFML to function.

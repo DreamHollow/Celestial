@@ -18,3 +18,4 @@ DEPENDENCIES
 ------------
 
 The Celestial game engine uses SFML to function.
+It does not rely on anything else.

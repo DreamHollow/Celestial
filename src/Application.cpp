@@ -66,7 +66,7 @@ void Application::init_window(unsigned int w, unsigned int h, unsigned int b)
         std::cerr << e.what();
     }
 
-    this->window = new sf::RenderWindow(vid_mode, "Test", sf::Style::Close);
+    this->window = new sf::RenderWindow(vid_mode, window_name, sf::Style::Close);
     // Do math here to always get relative screen center
     window->setPosition(sf::Vector2i(sf::VideoMode::getDesktopMode().width / 3.5, sf::VideoMode::getDesktopMode().height / 4));
     window->setFramerateLimit(framerate);
